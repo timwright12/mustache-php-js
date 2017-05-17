@@ -1,0 +1,27 @@
+body {
+	font-family: sans-serif;
+	line-height: 1.4;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1 {
+	padding: 0 15px;
+}
+
+.container {
+	margin: auto;
+	max-width: 900px;
+}
+
+.m-card {
+	box-sizing: border-box;
+	float: left;
+	padding: 0 15px;
+	width: 50%;
+}
+
+.m-card img {
+	display: block;
+	margin-bottom: 1em;
+	width: 100%;
+}

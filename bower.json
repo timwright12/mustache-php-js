@@ -1,0 +1,21 @@
+{
+  "name": "mustache-php-js",
+  "authors": [
+    "Tim Wright <timwright12@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mustache.js": "mustache#^2.3.0"
+  }
+}
